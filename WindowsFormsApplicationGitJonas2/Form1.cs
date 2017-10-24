@@ -16,7 +16,7 @@ namespace WindowsFormsApplicationGitJonas2
         {
             InitializeComponent();
             // OK
-            // Nicht OK
+            // Nicht OKay
         }
     }
 }
